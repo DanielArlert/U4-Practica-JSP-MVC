@@ -1,0 +1,3 @@
+mx\edu\itspa\dao\ProductoDAO.class
+mx\edu\itspa\general\Producto.class
+mx\edu\itspa\bo\ProductoServlet.class
